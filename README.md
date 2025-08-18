@@ -12,7 +12,7 @@ It demonstrates how to build an **end-to-end machine learning workflow** with da
 
 ## 📂 Project Structure
 
-house-prices-random-forest/ │── data/ │ ├── train.csv # Raw training data (from Kaggle) │ ├── test.csv # Raw test data (from Kaggle) │ ├── train_features_clean.csv # Cleaned training features │ ├── test_features_clean.csv # Cleaned test features │ └── train_target.csv # Target variable (SalePrice) │ │── notebooks/ │ └── housing_prices_randomforest.ipynb # Kaggle Notebook / Jupyter Notebook │ │── scripts/ │ └── Housing_Prices_RF_Model.py # Python script version of pipeline │ │── outputs/ │ ├── submission.csv # Final Kaggle submission file │ └── rf_model.pkl # (Optional) Saved Random Forest model │ │── README.md # Project documentation
+house-prices-random-forest/ │── data/ │ ├── train.csv # Raw training data (from Kaggle) │ ├── test.csv # Raw test data (from Kaggle) │ ├── train_features_clean.csv # Cleaned training features │ ├── test_features_clean.csv # Cleaned test features │ └── train_target.csv # Target variable (SalePrice) │ │── notebooks/ │ └── housing_prices_randomforest.ipynb # Kaggle Notebook / Jupyter Notebook │ │── scripts/ │ └── Housing_Prices_RF_Model.py # Python script version of pipeline │  │── README.md # Project documentation
 
 ---
 
