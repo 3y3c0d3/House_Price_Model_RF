@@ -60,7 +60,7 @@ python scripts/Housing_Prices_RF_Model.py
 Or open the Kaggle Notebook directly and rerun all cells.
 
 
----
+```
 
 ## 🛠️ Tech Stack
 
